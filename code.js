@@ -1,1 +1,1 @@
-console.log("coding's still fun until you hit an unexpected bug");
+console.log("coding's always fun until you hit an unexpected bug");
